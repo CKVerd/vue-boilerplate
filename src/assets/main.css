@@ -1,0 +1,9 @@
+@import './base.css';
+@import "tailwindcss";
+
+* {
+  font-optical-sizing: auto;
+  box-sizing: border-box;
+  /* padding: 0px;
+  margin: 0px; */
+}
